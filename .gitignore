@@ -1,0 +1,25 @@
+# Material das aulas (slides e documentos de apoio): não faz parte do projeto
+Aulas/
+Aulas_Atualizadas/
+Avaliacao_das_Aulas.md
+*.pptx
+*.docx
+
+# Build
+target/
+*.class
+*.log
+
+# IDEs
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.iml
+.factorypath
+.sts4-cache/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
