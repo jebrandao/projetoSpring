@@ -4,6 +4,11 @@ API REST de **gestão escolar** (estudantes, professores, turmas e usuários), c
 **Desenvolvimento de Backend com Spring Boot**. Cada pasta é o projeto completo no ponto em que uma aula termina,
 então dá para comparar uma etapa com a seguinte.
 
+## Material de estudo
+
+A pasta [`Material/`](Material) reúne, em PDF, as 22 aulas (slides `SB01` a `SB22`) e os dois documentos de apoio com o
+código completo (`SB21.1` e `SB22.1`).
+
 ## Tecnologias
 
 - Java 25 (LTS) e Spring Boot 4.1.2 (Spring Framework 7)
